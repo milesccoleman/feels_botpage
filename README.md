@@ -16,4 +16,4 @@ Users are encouraged to think about empathy, intentionality, and genuine connect
 <iframe src="https://milesccoleman.com/feels_bot/#/" width="800" height="1000"></iframe>
 
 
-Click [here](https://github.com/milesccoleman/feels_bot) to access the code for feels_bot. 
+# Click [here](https://github.com/milesccoleman/feels_bot) to access the code for feels_bot. 
