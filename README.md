@@ -13,7 +13,7 @@ This interactive exhibit uses artificial intelligence, emotionally potent sounds
 
 Users are encouraged to think about empathy, intentionality, and genuine connection. Do we (humans) communicate like machines? Should we? 
 
-<iframe src="https://milesccoleman.com/feels_bot/#/"</iframe>
+<iframe src="https://milesccoleman.com/feels_bot/#/"></iframe>
 
 
 Click [here](https://github.com/milesccoleman/feels_bot) to access the code for feels_bot. 
