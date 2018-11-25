@@ -7,7 +7,6 @@
 
   gtag('config', 'UA-67390232-4');
 </script>
-# feels_bot
 
 This interactive exhibit uses artificial intelligence, emotionally potent sounds, and a connection to all of the .gifs on the internet to give a glimpse into what it might be like if a machine could "catch feels." The exhibit emphasizes the material, nonverbal, and affective dimensions of communication by responding emotionally to keyboard input from the user. Understandably, the bot reacts in ways different from our normal human-to-human communication.
 
